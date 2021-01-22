@@ -107,7 +107,7 @@ function megaFriend(friendName) {
         }
     }
 
-    //condition for checking wheather array length greater than 0 and total number of string is equal to array length or not
+    //condition for checking whether array length greater than 0 and total number of string is equal to array length or not
     if (friendName.length != 0 && count == friendName.length) {
         for (var i = 0; i < friendName.length; i++) {
             //condition for comparing each of string to another to find out the largest one
