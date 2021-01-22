@@ -1,3 +1,7 @@
+//https://github.com/Rashadul-Islam/javascript
+
+
+
 // solution of problem 1
 
 function kilometerToMeter(kilometer) {
@@ -15,7 +19,11 @@ var result1;
 result1 = kilometerToMeter(5); //passing value to parameter
 console.log(result1);
 
+
+
+
 //solution of problem 2
+
 
 function budgetCalculator(watch, mobile, laptop) {
     //condition for checking valid input
@@ -34,7 +42,11 @@ var result2;
 result2 = budgetCalculator(2, 3, 5);
 console.log(result2);
 
+
+
+
 // solution of problem 3
+
 
 function hotelCost(days) {
     //condition for checking valid input days
@@ -78,7 +90,11 @@ var result3;
 result3 = hotelCost(22);
 console.log(result3);
 
+
+
+
 //solution of problem 4
+
 
 function megaFriend(friendName) {
     var count = 0; //variable for storing total number of string
